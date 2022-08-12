@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/bitroot-test/static/css/main.37693c80.css",
+    "main.js": "/bitroot-test/static/js/main.c1f471be.js",
+    "index.html": "/bitroot-test/index.html",
+    "main.37693c80.css.map": "/bitroot-test/static/css/main.37693c80.css.map",
+    "main.c1f471be.js.map": "/bitroot-test/static/js/main.c1f471be.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.37693c80.css",
+    "static/js/main.c1f471be.js"
+  ]
+}
